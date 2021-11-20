@@ -1,7 +1,7 @@
 # crud-php
 CRUD Gestão de Funcionários Com PHP
 
-  Este projeto “Gestão de Funcionário” tem como objetivo demonstrar, de forma simples e objetivo, como funciona um CRUD utilizando PHP-POO e MySQl.
+  Este projeto “Gestão de Funcionário” tem como objetivo demonstrar, de forma simples e objetiva, como funciona um CRUD utilizando PHP-POO e MySQl.
   
  Foi utilizado a função ajax do jquery para realização das requisições sem causar refresh na view.
  
